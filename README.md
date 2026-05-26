@@ -7,7 +7,8 @@ Backend Engineer | Java • Spring Boot • Distributed Systems • Kafka • Cl
 <p align="center">
   <a href="mailto:kunal.k.engineer@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/kunalkengineer/">🔗 LinkedIn</a> •
-  <a href="https://github.com/kunalkengineer">💻 GitHub</a>
+  <a href="https://github.com/kunalkengineer">💻 GitHub</a> •
+  <a href="https://leetcode.com/u/kunalkengineer/">🧠 LeetCode</a>
 </p>
 
 ---
@@ -223,13 +224,17 @@ Focus:
 
 ## 🤝 Connect
 
-📧 Email: kunal.k.engineer@gmail.com
+📧 Email:
+kunal.k.engineer@gmail.com
 
 🔗 LinkedIn:
 linkedin.com/in/kunalkengineer
 
 💻 GitHub:
 github.com/kunalkengineer
+
+🧠 LeetCode:
+leetcode.com/u/kunalkengineer/
 
 ---
 
