@@ -182,11 +182,6 @@ Focus:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kunalkengineer&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
-    width="49%"
-  />
 
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkengineer&theme=github-dark-blue&hide_border=true"
